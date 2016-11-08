@@ -1,0 +1,7 @@
+  name: InstantTree
+  main: thebigsmileXD\InstantTree\Main
+  version: 0.2.0
+  api: [1.0.0, 2.0.0]
+  load: POSTWORLD
+  authors: [thebigsmileXD]
+  prefix: "InstantTree"
